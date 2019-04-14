@@ -1,0 +1,15 @@
+Questão 4
+
+Após a retirada do implements Comparable<ContaPoupanca> O método compareTo (ContaPoupanca) do tipo ContaPoupanca deve substituir ou implementar um método supertipo
+
+Questão 5
+Tanto LinkedList quanto ArrayList implementam a interface List. Não precisa alterar nenhum código. O programa roda normalmente.
+
+Questão 6
+Para que uma lista seja: invertida, usa-se o
+método Collections.reverse(lista);
+ embaralhada, usa-se o
+método Collections.shuffle(lista)
+; e rotacionada, usa-se o
+método Collections.rotate(lista)
+;
